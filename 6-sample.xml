@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Finch Test Feed</title>
+<link>https://example.com/</link>
+<description>Offline sample feed for feedfinch tests.</description>
+<item><title>First perch</title><link>https://example.com/1</link>
+<description>&lt;p&gt;Hello from the &lt;b&gt;test&lt;/b&gt; feed.&lt;/p&gt;</description>
+<pubDate>Sun, 18 Oct 2026 08:00:00 GMT</pubDate></item>
+<item><title>Second perch</title><link>https://example.com/2</link>
+<description>Another offline article body.</description>
+<pubDate>Sun, 18 Oct 2026 08:05:00 GMT</pubDate></item>
+</channel></rss>
